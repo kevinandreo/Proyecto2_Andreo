@@ -1,1 +1,1 @@
-En cada script esta explicado paso por paso
+En cada script esta comentado
